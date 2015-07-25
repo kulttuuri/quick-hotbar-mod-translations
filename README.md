@@ -14,4 +14,4 @@ This repository contains translations for Minecraft mod [Quick Hotbar Mod](https
 - Please test your translations in-game to notice possible problems.
 - Don't let your translations get too long compared to english ones. Too long translation might not fit the screen / button / component it's supposed to go on.
 - Please keep your translations as consistent as possible. Use same words when possible.
-- Tag **<br>** is linebreak.
+- Tag <code><br></code> is linebreak.
